@@ -1,6 +1,6 @@
-(ns date-exprs.core-test
+(ns date-expressions.core-test
   (:require [clojure.test :refer :all]
-            [date-exprs.core :refer :all])
+            [date-expressions.core :refer :all])
   (:import java.text.SimpleDateFormat
            java.util.Date))
 

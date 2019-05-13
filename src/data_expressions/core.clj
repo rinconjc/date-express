@@ -1,4 +1,4 @@
-(ns date-exprs.core
+(ns date-expressions.core
   (:import java.text.SimpleDateFormat
            java.util.Calendar))
 

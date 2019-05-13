@@ -1,4 +1,4 @@
-# date-express
+# date-expressions
 
 A Clojure library designed to parse/evaludate date/time expressions
 
