@@ -1,10 +1,10 @@
-# date-exprs
+# date-express
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to parse/evaludate date/time expressions
 
 ## Usage
 
-FIXME
+TODO
 
 ## License
 
